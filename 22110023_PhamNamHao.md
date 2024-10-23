@@ -3,11 +3,11 @@
  
 **Make a vulnerable C program**
 ```
-![image](https://github.com/user-attachments/assets/8ca1f13a-29bd-4294-b83f-9c14d50d23e7)
+!(https://github.com/user-attachments/assets/c6601ab9-f2f3-4f29-aff3-ca0a5eb8ed1b)
 ```
 **Make a shell C program**
 ```
-![image](https://github.com/user-attachments/assets/33a54957-a567-45aa-817e-e5703b5d7e04)
+!(https://github.com/user-attachments/assets/4de6ebb1-4719-4dde-b3ae-d8334302721f)
 ```
 **Answer 1**:I choose Code Injection route.
 - Compile both C programs and shellcode to executable code.
